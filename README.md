@@ -6,7 +6,6 @@
   <img src="dp.png" width="170" style="border-radius:50%;" alt="Suraj Patel" />
 </p>
 
-}
 
 
 <br>
