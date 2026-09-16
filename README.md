@@ -24,6 +24,25 @@
   <img src="https://img.shields.io/badge/REPOS-DOMINATING-00FF41?style=for-the-badge&labelColor=0d1117" />
 </p>
 
+
+"use client";
+import { AsciiArt } from "@/components/ui/ascii-art";
+
+export function AsciiArtDemo() {
+  return (
+    <AsciiArt
+      src="https://assets.aceternity.com/avatars/manu.webp"
+      resolution={100}
+      color="var(--color-neutral-500)"
+      animationStyle="fade"
+      animationDuration={1.5}
+      animateOnView={false}
+      className="mx-auto aspect-square w-full max-w-lg bg-neutral-950"
+    />
+  );
+}
+
+
 ---
 
 <p align="center">
