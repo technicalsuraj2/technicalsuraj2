@@ -6,6 +6,24 @@
   <img src="dp.png" width="170" style="border-radius:50%;" alt="Suraj Patel" />
 </p>
 
+"use client";
+import { AsciiArt } from "@/components/ui/ascii-art";
+
+export function AsciiArtDemo() {
+  return (
+    <AsciiArt
+      src="https://assets.aceternity.com/avatars/manu.webp"
+      resolution={100}
+      color="var(--color-neutral-500)"
+      animationStyle="fade"
+      animationDuration={1.5}
+      animateOnView={false}
+      className="mx-auto aspect-square w-full max-w-lg bg-neutral-950"
+    />
+  );
+}
+
+
 <br>
 
 <p align="center">
@@ -338,3 +356,7 @@ PING sentinel (127.0.0.1) 56(84) bytes of data.
 > 💚 Made with love, Kali Linux, aur midnight chai ☕ by **technicalsuraj2**
 
 </div>
+
+
+
+
