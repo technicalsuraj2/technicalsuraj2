@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="200" viewBox="0 0 860 200">
+<rect width="860" height="200" rx="16" fill="#0d1117"/>
+<rect x="1" y="1" width="858" height="198" rx="15" fill="none" stroke="#21262d" stroke-width="2"/>
+<text x="48" y="72" font-family="monospace" font-size="22" fill="#8b949e">hey, i&apos;m</text>
+<text x="46" y="120" font-family="monospace" font-size="52" font-weight="bold" fill="#00ff41">SURAJ PATEL</text>
+<text x="48" y="158" font-family="monospace" font-size="16" fill="#e6edf3">Ethical hacker &amp; builder. I break tools in the lab so attackers can&apos;t break them live.</text>
+<text x="48" y="180" font-family="monospace" font-size="13" fill="#8b949e">Kali Linux · Python · MT5 automation · founder @ AGSC Developer</text>
+</svg>
