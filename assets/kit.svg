@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="150" viewBox="0 0 860 150">
+<rect width="860" height="150" rx="12" fill="#0d1117"/>
+<rect x="1" y="1" width="858" height="148" rx="11" fill="none" stroke="#21262d" stroke-width="2"/>
+<text x="28" y="38" font-family="monospace" font-size="14" fill="#8b949e">security:</text>
+<text x="130" y="38" font-family="monospace" font-size="14" fill="#e6edf3">Burp Suite · Nmap · Hydra · Metasploit · Wireshark · Kali Linux</text>
+<text x="28" y="68" font-family="monospace" font-size="14" fill="#8b949e">build:</text>
+<text x="130" y="68" font-family="monospace" font-size="14" fill="#e6edf3">Python · Bash · JavaScript · Go · Docker</text>
+<text x="28" y="98" font-family="monospace" font-size="14" fill="#8b949e">focus:</text>
+<text x="130" y="98" font-family="monospace" font-size="14" fill="#e6edf3">recon automation · brute-force labs · MT5 controllers · OSINT</text>
+<text x="28" y="126" font-family="monospace" font-size="13" fill="#6e7681">labs only. no real-world targets without written permission.</text>
+</svg>
